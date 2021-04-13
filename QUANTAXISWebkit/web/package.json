@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.16.1",
+    "axios": "^0.21.1",
     "buffer-shims": "^1.0.0",
     "caniuse-lite": "^1.0.30000684",
     "echarts": "^3.6.1",
