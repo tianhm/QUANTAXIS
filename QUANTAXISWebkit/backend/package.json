@@ -15,7 +15,7 @@
     "child-process": "^1.0.2",
     "cookie-parser": "~1.4.3",
     "crawler": "^1.0.2",
-    "debug": "~2.6.0",
+    "debug": "~3.1.0",
     "ejs": "~2.5.5",
     "events": "^1.1.1",
     "express": "~4.14.1",
